@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function () {
    * yang berakhir dengan /exec.
    */
   const URL_WEB_APP_PENGUMUMAN =
-    "https://script.google.com/macros/s/AKfycbwZUx2O4ti5I_u4SqBvyNzZLDkfxNLQ5hHTkv9q6YT1aOw13ta683VhO7u6eqRsqo7SpQ/exec";
+    "https://script.google.com/macros/s/AKfycbxFJny6LakoVG3ObkBkathqS2Hx75CI4xS516tNrRetAIDosyLBP6mubK-JxEW8JLG9LQ/exec";
 
   const JUMLAH_PENGUMUMAN = 6;
   const WAKTU_TUNGGU = 15000;
